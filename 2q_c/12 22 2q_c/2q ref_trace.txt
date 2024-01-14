@@ -1,0 +1,6 @@
+2q
+ref_number=100000000
+Am_hit=234550
+A1in_hit=45216 
+A1out_hit=711849 
+miss=99008385
